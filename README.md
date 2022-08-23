@@ -7,4 +7,4 @@ This app contains simple minimalistic blog template
 - [gorest](https://gorest.co.in/)
 
 ## Live demo
-https://github.com/jetseoo/blog
+jetseoo.github.io/blog/
